@@ -1,4 +1,4 @@
-import pygame 
+import pygame  #toi bi ngu
 import math
 from queue import PriorityQueue 
 import time
